@@ -4,6 +4,7 @@ Always requires a BMP file named "in.bmp".
 You can choose 0 to write or 1 to extract during the program running.
 
 Write:
+
     requires an additional file, name it freely.
     type the file name when the program tells you.
     wait till finish.
@@ -11,6 +12,7 @@ Write:
     the hide file can't be to large for a BMP file to write.
 
 Extract:
+
     requires nothing.
     wait till finish.
 
